@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+header {
+    display: flex;
+    background-color: bisque;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 0px 0px 0px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+header ul {
+    list-style: none;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px 20px 0px;
+
+
+}
+
+header ul li {
+    margin: 15px;
+    color:chocolate;
+    text-decoration-style: double;
+    font-size: medium;
+    text-decoration-style: double;
+}
+   body{background-color: bisque;
+
+   } 
+img { width: 130px;
+
+}
+h1 {font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    text-decoration-style: double;
+    color: brown;
+    font-size:250%;
+
+}
+
+p {
+    color: darkslategrey;
+    font-family: 'Times New Roman', Times, serif;}
+
+#introduccion {
+    justify-content: space-between;
+    background-color: bisque;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Times New Roman', Times, serif;
+    align-items:center;
+    justify-content: space-between;
+    margin: 0px 0px 0px 0px;
+}
+
+#carouselExampleIndicators {
+    width: 700px ;
+
+
+}
+.carousel{
+    display: flex;
+    flex-direction: column;
+    columns:70px;
+    background-color: bisque;
+    align-items: center;
+
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    text-align: center;
+    color: rgb(30, 116, 45);
+}
+#home{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+
+}
+.cajas {
+        display: flex;
+        flex-direction: row;
+        flex-wrap:nowrap;
+        width: 100%;
+        margin: 100px 10px 10px 10px;
+        align-items: baseline;
+        
+        
+
+}
+
+#responsabilidad {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+
+}
+.caja4 {
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    
+
+}
+.caja4 img {
+    width: 300px;
+
+}
+#cuidados iframe {
+    margin: 1% 0% 1% 0%;
+    background-color: bisque;
+}
+
+#cuidados {
+    background-color: bisque;
+    margin: 5% 0% 0% 0%;
+    
+}
+#cuidados iframe { display: flex;
+    background-color: bisque;
+
+}
+.caja5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+
+
+
+}
+#adoptar {
+    width: 100%;
+    background-color: bisque;
+    padding: 10% 5% 10% 5%;
+ 
+
+}
+#adoptar iframe {
+    padding: 0%;
+    margin: 5% 0% 5% 0%;
+    background-color: bisque;}
